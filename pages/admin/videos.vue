@@ -1,7 +1,9 @@
 <script setup lang='ts'>
-navigateTo('/login')
 </script>
 
 <template>
-  <NuxtPage />
+  <section>Hello Videos</section>
 </template>
+
+<style scoped>
+</style>
